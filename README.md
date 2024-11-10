@@ -12,8 +12,8 @@ Este proyecto utiliza `pyswip`, que está especificado en el archivo `requiremen
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    cd tu_repositorio
+    git clone https://github.com/ArmandoEstrada20/ProgramacionLogica.git
+    cd ProgramacionLogica
     ```
 
 2. **Crear un entorno virtual**:
