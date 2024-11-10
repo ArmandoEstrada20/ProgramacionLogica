@@ -1,5 +1,5 @@
 
-# Proyecto de Ejemplo con Prolog en Python
+# Ejemplo con Prolog en Python
 
 Este proyecto demuestra cómo interactuar con hechos y reglas definidas en Prolog desde Python utilizando la biblioteca `pyswip`. 
 Se define un conjunto de reglas y hechos sobre colores y mascotas en distintas casas, y se realizan consultas para verificar relaciones entre ellas.
